@@ -1,4 +1,4 @@
-DTA400 Project - Ring Network Topology Simulation with SimPy
+# DTA400 Project - Ring Network Topology Simulation with SimPy
 This project contains two simulations that model a ring network topology using the SimPy library. Both simulations represent different network scenarios, with the goal of studying how messages propagate across nodes in a ring topology, especially when using the Spanning Tree Protocol (STP) to prevent loops.
 
 Project Overview
